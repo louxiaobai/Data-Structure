@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+
+        <bean id="address" class="com.pojo.Address">
+
+            <property name="address" value="河南"/>
+
+        </bean>
+
+        <bean id="student" class="com.pojo.Student">
+
+<!--            第一种:普通值注入 value-->
+            <property name="name" value="二炮"/>
+<!--            第二种:引用类型注入 value-->
+            <property name="address" ref="address"/>
+<!--            第三种:数组注入-->
+            <property name="books">
+                <array>
+                    <value>二蛋是怎么练成的</value>
+                    <value>三蛋是怎么练成的</value>
+                    <value>四蛋是怎么练成的</value>
+                    <value>五蛋是怎么练成的</value>
+                </array>
+            </property>
+<!--            第四种:list注入-->
+            <property name="hobbys">
+
+                <list>
+                    <value>打篮球</value>
+                    <value>打羽毛球</value>
+                    <value>打乒乓球</value>
+                </list>
+
+            </property>
+
+<!--            第五种:map注入-->
+            <property name="card">
+                <map>
+                    <entry key="银行卡" value="123123"/>
+                    <entry key="身份证" value="121232133123"/>
+                </map>
+            </property>
+
+<!--             第六种:map注入-->
+
+            <property name="games">
+                <set>
+                    <value>CF</value>
+                    <value>DNF</value>
+                </set>
+
+            </property>
+<!--             第七种:null注入-->
+            <property name="wife">
+                <null/>
+            </property>
+
+<!--             第八种:Properties注入-->
+
+            <property name="info">
+
+                <props>
+                    <prop key="driver">12321</prop>
+                    <prop key="sex">男</prop>
+                    <prop key="name">狗蛋</prop>
+                </props>
+
+            </property>
+
+        </bean>
+
+
+</beans>

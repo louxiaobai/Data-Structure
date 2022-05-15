@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="993cf313-a94d-4236-b7b7-dc0725498ac9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/translation-server" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="$USER_HOME$/apache-maven-3.5.0/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="20LKCW1dheNlZBDXLQTeuvQLBcX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="993cf313-a94d-4236-b7b7-dc0725498ac9" name="Default Changelist" comment="" />
+      <created>1635818300082</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635818300082</updated>
+      <workItem from="1635818302056" duration="546000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1635818928043">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="184" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.829@0.23.1440.829" timestamp="1635818928043" />
+    <state x="184" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.830@0.23.1440.830" timestamp="1635818395305" />
+    <state width="307" height="457" key="HiddenNamespacesPopup" timestamp="1635818993995">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="307" height="457" key="HiddenNamespacesPopup/0.23.1440.829@0.23.1440.829" timestamp="1635818993995" />
+  </component>
+</project>

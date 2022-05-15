@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/graph/AdjList.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/graph/AdjMatrix.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/graph/AdjSet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/leedcode/LinkedList/InsertionSortList.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/leedcode/LinkedList/ListNode.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/leedcode/LinkedList/MergeKLists.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/leedcode/LinkedList/MergeTwoLists.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/leedcode/LinkedList/MiddleNode.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/leedcode/LinkedList/RemoveElements.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/leedcode/LinkedList/RemoveNthFromEnd.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/leedcode/LinkedList/ReverseList.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/leedcode/LinkedList/SortList.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/leedcode/bs/FindInMountainArray.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/leedcode/bs/PeakIndexInMountainArray.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/leedcode/bs/Search.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/leedcode/offer/MinArray.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/leedcode/offer/MinNumber.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/leedcode/offer/ReversePairs.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/leedcode/sort/LargestNumber.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/leedcode/sort/MaximumGap.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/leedcode/sort/Merge.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/leedcode/sort/SortColors.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/leedcode/stack/Brackets.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/leedcode/twopoint/MoveZeroes.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/leedcode/twopoint/Palindromic.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/leedcode/twopoint/RemoveElement.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/leedcode/twopoint/ReverseString.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/line/algo/bs/BinarySearch.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/line/algo/sort/ThreeWayQuickSorter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/line/linkedlist/DoubleLinkedList.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/line/linkedlist/LinkedList.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/line/linkedlist/LinkedListTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/line/stack/LinkedListStack.java" charset="GBK" />
+  </component>
+</project>

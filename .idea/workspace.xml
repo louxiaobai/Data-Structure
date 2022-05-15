@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a2a5654-09d7-49ff-a902-5b56db8a5362" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/corporation/translation-server/src/main/java/com/medical/spring/controller/TermController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corporation/translation-server/src/main/java/com/medical/spring/util/TargetUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/corporation/translation-server/src/main/resources/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corporation/translation-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/corporation/translation-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corporation/translation-server/src/main/java/com/medical/spring/controller/DemoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/corporation/translation-server/src/main/java/com/medical/spring/dao/DemoDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/corporation/translation-server/src/main/java/com/medical/spring/dao/DemoDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corporation/translation-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/corporation/translation-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corporation/translation-server/src/main/resources/mapping/DemoMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/corporation/translation-server/src/main/resources/mapping/TermMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corporation/translation-server/src/test/java/com/medical/spring/ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/corporation/translation-server/src/test/java/com/medical/spring/ApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/corporation/translation-server" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="$USER_HOME$/apache-maven-3.5.0/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="26BXWd6zeStD3Vd7GR65jQL0Bx3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a2a5654-09d7-49ff-a902-5b56db8a5362" name="Default Changelist" comment="" />
+      <created>1646897985954</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646897985954</updated>
+      <workItem from="1646897987376" duration="6000" />
+    </task>
+    <servers />
+  </component>
+</project>
